@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/shemSvcollege/MaximTest/issues"
   },
-  "homepage": "https://github.com/shemSvcollege/MaximTest#readme"
+  "homepage": "https://github.com/shemSvcollege/MaximTest#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }

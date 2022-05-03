@@ -1,0 +1,21 @@
+{
+  "name": "maximtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shemSvcollege/MaximTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shemSvcollege/MaximTest/issues"
+  },
+  "homepage": "https://github.com/shemSvcollege/MaximTest#readme"
+}
